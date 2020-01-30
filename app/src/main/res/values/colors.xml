@@ -3,4 +3,7 @@
     <color name="colorPrimary">#673AB7</color>
     <color name="colorPrimaryDark">#522da8</color>
     <color name="colorAccent">#89b73a</color>
+
+    <color name="c_item_repository_tx">#868686</color>
+    <color name="c_item_repository_tx_name">#575757</color>
 </resources>

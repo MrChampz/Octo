@@ -1,5 +1,7 @@
 package com.upco.octo.infrastructure
 
-// Implementa a interface Repository
-class RepositoryRepository {
+import com.upco.octo.domain.entity.Repository
+
+interface RepositoryRepository {
+    fun getAll(): List<Repository>
 }

@@ -1,7 +1,7 @@
 package com.upco.octo.domain
 
-import com.upco.octo.infrastructure.RepositoryRepository
+import com.upco.octo.domain.entity.Repository
 
-// Implementa a interface Interactor
-class RepositorySearchInteractor(val repository: RepositoryRepository) {
+interface RepositorySearchInteractor {
+    fun getAll(): List<Repository>
 }

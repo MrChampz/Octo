@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_repository_vertical_margin">15dp</dimen>
+    <dimen name="item_repository_horizontal_margin">15dp</dimen>
+    <dimen name="item_repository_vertical_spacing">8dp</dimen>
+    <dimen name="item_repository_horizontal_spacing">15dp</dimen>
+    <dimen name="item_repository_drawable_padding">8dp</dimen>
+
+    <dimen name="item_repository_text_size">18sp</dimen>
+    <dimen name="item_repository_name_text_size">22sp</dimen>
+</resources>
