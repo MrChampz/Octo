@@ -1,3 +1,34 @@
 <resources>
+    <!-- General -->
     <string name="app_name">Octo</string>
+    <string name="tx_search_view_hint">Digite o nome de usuário&#8230;</string>
+
+    <!-- States -->
+    <string name="tx_state_nothing_searched_title">Pesquisar usuário</string>
+    <string name="tx_state_nothing_searched_desc">
+        Nada foi pesquisado ainda&#8230; Por que não pesquisa algo?
+    </string>
+
+    <string name="tx_state_user_not_found_title">Usuário não encontrado</string>
+    <string name="tx_state_user_not_found_desc">
+        Não encontramos esse usuário, por que não tenta com outro?
+    </string>
+
+    <string name="tx_state_no_repos_title">Nenhum repositório!</string>
+    <string name="tx_state_no_repos_desc">
+        Poxa, parece que este usuário ainda não tem repositórios&#8230;
+    </string>
+
+    <string name="tx_state_network_error_title">Ooops!</string>
+    <string name="tx_state_network_error_desc">
+        Houve um problema na comunicação com o servidor. Tente novamente&#8230;
+    </string>
+
+    <string name="tx_state_unknown_error_title">Erro!</string>
+    <string name="tx_state_unknown_error_desc">
+        Poxa, o que aconteceu? Erro desconhecido. Tente novamente&#8230;
+    </string>
+
+    <!-- Menus -->
+    <string name="tx_mn_repo_search_title">Pesquisar</string>
 </resources>
